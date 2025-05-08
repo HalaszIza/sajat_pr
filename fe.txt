@@ -1,0 +1,7 @@
+1. Egy Website-ot kell elkészíteni, ami egy oldalból áll.
+2. Legyen az oldalon egy felső menü bootstrap navbar alapon.
+3. Legyen a navbar alatt egy táblázat, amit JS segítségével generáltak ki. 
+    A JS külön fájlban legyen. A táblázat Bootstrap-el legyen formázva. A táblázat fejlécei egyezzenek meg az adatsorok tartalmával.
+4. Legyen minden sor végén egy gombcsoport, ami két gombot tartalmaz, font-awesome ikonokkal: megtekintés, törlés
+5. Az adatokat JS fetch segítségével a https://nettuts.hu/jms/<github név>/drugs oldalról töltse le.
+6. Legyen leprogramozva és működjön a törlés funkció megerősítéssel.
